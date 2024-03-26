@@ -1,0 +1,20 @@
+{
+  "name": "pnl-solana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.20.1",
+    "@solana/web3.js": "^1.90.0",
+    "child_process": "^1.0.2",
+    "exceljs": "^4.4.0",
+    "fs": "^0.0.1-security",
+    "telegraf": "^4.15.3"
+  }
+}
